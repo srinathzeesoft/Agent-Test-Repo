@@ -2,7 +2,7 @@ Mkt3L10n.adminFieldHtmlEncodeForm = {
   Html_Encode_Tokens: "HTML Encode Tokens in Emails now now now now now now now now now",
   Explain: "Configure the default HTML encoding behavior in email tokens for all fields",
   Remind: "This setting will apply to all fields. You can configure this setting for each field as well now now now now",
-  Save: "SAVE now now now now now",
+  Save: "SAVE now now now now now now now now now now",
   Cancel: "Cancel"
 };
 Mkt3L10n.adminDkimDomainDetailsForm = {
