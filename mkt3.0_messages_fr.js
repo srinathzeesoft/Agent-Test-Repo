@@ -1,6 +1,6 @@
 Mkt3L10n.adminFieldHtmlEncodeForm = {
   Html_Encode_Tokens: "",
-  Explain: "Configurer le comportement de codage HTML par défaut dans les jetons d’e-mails pour tous les champs",
+  Explain: "",
   Remind: "",
   Save: "",
   Cancel: "Annuler"
