@@ -2,7 +2,7 @@ Mkt3L10n.adminFieldHtmlEncodeForm = {
   Html_Encode_Tokens: "",
   Explain: "メールトークンのデフォルトの HTML エンコーディング動作を全フィールドに設定する",
   Remind: "",
-  Save: "保存",
+  Save: "",
   Cancel: "キャンセル"
 };
 Mkt3L10n.adminDkimDomainDetailsForm = {
