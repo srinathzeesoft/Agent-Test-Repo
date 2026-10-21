@@ -10,6 +10,9 @@ Mkt3L10n.adminDkimDomainDetailsForm = {
   Public_Key: "パブリックキー",
   Host_Record: "ホストレコード",
   TXT_Value: "テキスト値",
+  TXT_Value1: "",
+  TXT_Value2: "",
+  TXT_Value3: "",
   Close: "閉じる"
 };
 
